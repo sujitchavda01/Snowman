@@ -6,7 +6,7 @@ This is a simple **static web project** that features a **moving snowman animati
 
 - **HTML5:** Structure of the page.
 - **CSS3:** Styling and animation of the snowman and background.
-- **JavaScript (Vanilla):** Adds movement/interaction logic to animate the snowman.
+- **JavaScript :** Adds movement/interaction logic to animate the snowman.
 
 ## 🎨 Features
 
